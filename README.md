@@ -1,16 +1,19 @@
-## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIhaozheng)
-<!--
-**JIhaozheng/JIhaozheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Hi, there 👋
 
-Here are some ideas to get you started:
+Here is JI Haozheng.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 2nd-year undergraduate in **Geophysics**,  
+🌍 Department of Earth and Space Science, SUSTech (Southern University of Science and Technology)
+
+📫 Feel free to reach me via email at jihz@mail.sustech.edu.cn
+
+🔬 Interests:
+- 🧠 Machine Learning & Data-Driven Modeling
+- 🌍 Theoretical and Computational Seismology
+- 💻 Applied mathematics and physics
+
+👨‍🏫 Experience:
+- Teaching Assistant for **Analytical Mechanics (PHY205-15)** in Spring 2025  
+  Tasks included grading, tutoring, Q&A, and proctoring
+- 🧒 Taught at Nanshan Renzhi Experimental School (Spring 2025)
+- 🤝 Volunteer: 56.5 hours of service
