@@ -17,7 +17,7 @@
 
 ## 📚 Open Course Project
 
-I'm building a **open course repository** to help other students save time and enjoy a more relaxed and efficient learning experience. 🎓✨  
+🎓✨ I'm building a **open course repository** to help other students save time and enjoy a more relaxed and efficient learning experience.   
 
 ✅ Uploaded:
 - 📈 [Fundamentals of Signal Processing and Data Analysis](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials/tree/main/ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis)  
@@ -26,7 +26,8 @@ I'm building a **open course repository** to help other students save time and e
 📌 Coming soon:
 - 🪐 Planetary Science   
 - 🌀 Continuum Mechanics  
-- ⛏️ Applied Geophysics 
+- ⛏️ Applied Geophysics
+-
 
  Check out the repo: [github.com/JIhaozheng/SUSTech_ESS_Course_Materials](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials)
 
