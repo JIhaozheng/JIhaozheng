@@ -6,9 +6,9 @@
 📫 Feel free to reach me via email at jihz@mail.sustech.edu.cn
 
 🔭 Interests:
-- 🌍 Theoretical and Computational Seismology
+- 🌍 Theoretical & Computational Seismology
 - 🖥️ Machine Learning & Data-Driven Modeling
-- ⚛️ Applied mathematics and physics
+- ⚛️ Applied mathematics & physics
 
 👨‍🏫 Experience:
 - 🧑‍💻 Teaching Assistant for **Analytical Mechanics (PHY205-15)** in Spring 2025  
