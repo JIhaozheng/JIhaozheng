@@ -9,6 +9,3 @@
 - 🌍 Theoretical & Computational Seismology
 - 🖥️ Machine Learning & Data-Driven Modeling
 - ⚛️ Applied mathematics & physics
-
-👨‍🏫 Experience:
-- 🧑‍💻 Teaching Assistant for **Analytical Mechanics (PHY205-15)** in Spring 2025  
