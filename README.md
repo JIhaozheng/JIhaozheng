@@ -1,4 +1,4 @@
-##  Hi, here is JI Haozheng 👋
+##  Hi, here is Haozheng JI 👋
 
 🎓 3rd-year undergraduate in **Geophysics**,  
 🌍 Department of Earth and Space Science, Soustern University of Science and Technology, Shenzhen.
