@@ -7,5 +7,7 @@
 
 🔭 Interests:
 - 🌍 Theoretical & Computational Seismology
+- 🦻 Ambient Noise and Tomography
 - 🖥️ Machine Learning & Data-Driven Modeling
 - ⚛️ Applied mathematics & physics
+- 
