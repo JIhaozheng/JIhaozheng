@@ -1,7 +1,7 @@
 ##  Hi, here is JI Haozheng 👋
 
-🎓 2nd-year undergraduate in **Geophysics**,  
-🌍 Department of Earth and Space Science, SUSTech, Shenzhen.
+🎓 3rd-year undergraduate in **Geophysics**,  
+🌍 Department of Earth and Space Science, Soustern University of Science and Technology, Shenzhen.
 
 📫 Feel free to reach me via email at jihz@mail.sustech.edu.cn
 
